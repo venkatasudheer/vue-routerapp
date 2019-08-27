@@ -2,8 +2,6 @@
 
 > A Vue.js Router project
 
-> Project done by: Manda Venkatasudheer Kumar
-
 
 ## Build Setup
 
