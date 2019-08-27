@@ -22,9 +22,18 @@ npm run build --report
 ```
 
 
-For Component img src resolving
+For Component img src resolving if you are using
+```
+    b-img
+    b-img-lazy
+    b-card
+    b-card-img
+    b-card-img-lazy
+    b-carousel-slide
+    b-embed
+```
 
-Step:1  Got to build folder and open vue-loader.conf.js
+Step:1  Go to build folder and open vue-loader.conf.js
 
 Step:2  
 ``` bash
