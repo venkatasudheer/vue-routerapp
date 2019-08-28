@@ -18,9 +18,9 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
+## This step is usefull for only who is using Bootstrap-vue
 
-
-For Component img src resolving if you are using
+For Component img src resolving if you are using 
 ```
     b-img
     b-img-lazy
